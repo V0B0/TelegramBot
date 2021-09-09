@@ -1,0 +1,6 @@
+.idea
+mvnw
+mvnw.cmd
+src/main/resources/application.properties
+# Project exclude paths
+/target/
